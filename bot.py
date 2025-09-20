@@ -7,7 +7,6 @@ import uuid
 import json
 import random
 import base64
-from shareithub import shareithub
 from aiohttp import ClientSession, TCPConnector
 from colorama import Fore, Style, init
 from loguru import logger
